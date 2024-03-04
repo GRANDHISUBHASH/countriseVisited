@@ -1,0 +1,9 @@
+img {
+  height: 100px;
+  padding: 10px;
+}
+.li {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}

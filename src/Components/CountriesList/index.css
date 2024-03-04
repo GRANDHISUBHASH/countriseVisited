@@ -1,0 +1,8 @@
+li {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+button {
+  width: 80px;
+}
